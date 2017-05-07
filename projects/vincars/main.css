@@ -1,0 +1,84 @@
+
+
+.row {
+    padding-bottom: 40px;
+    padding-top: 10px;
+}
+header{
+ height: 200px;
+ background-color: royalblue;
+ width: 100%;
+ color:white;
+}
+.bar {
+    text-align: right;
+}
+a {
+    color: white;
+}
+.navbar {
+    list-style-type: none;
+    text-align: right;
+    display: inline;
+}
+.navbar li {
+    display: inline-block;
+    padding-right:10px;
+    border-right: 3px dotted yellow; 
+}
+.brand {
+    position: relative;
+    left:10px;
+}
+.box {
+    height: 300px;
+    background-size: cover;
+    color: white;
+}
+.car1 {
+    background-image: url("images/Bentley.jpg");
+    
+}
+.car2 {
+    background-image: url("images/whitecar.jpg");
+
+}
+.car3{
+    background-image: url("images/redcar.jpg")
+}
+.car4{
+background-image: url('images/chevrolet-phaeton-convertible.jpg');
+}
+.car5 {
+    background-image: url('images/chevrolet-phaeton-master-eagle.jpg')
+}
+.car6 {
+    background-image: url('images/Fiat-500.jpg');
+}
+.car7{
+    background-image: url('images/IMG_5808.JPG');
+}
+.car8 {
+    background-image: url('images/Vintagecarrally2.jpg');
+}
+.car9{
+    background-image: url('images/whitecar.jpg');
+}
+.feature {
+    text-align: center;
+    background-color: lightblue;
+    color: gray;
+}
+form {
+  display: block;
+  width: 500px;
+}
+.caption {
+    background-color: rgba(10,10,10,0.6);
+}
+footer {
+    height: 200px;
+    background-color: blue;
+    color: white;
+    font-size: x-large;
+}
